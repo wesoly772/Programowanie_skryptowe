@@ -1,0 +1,9 @@
+postgres:x:129:132:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
+mosquitto:x:130:133::/var/lib/mosquitto:/usr/sbin/nologin
+inetsim:x:131:134::/var/lib/inetsim:/usr/sbin/nologin
+_gvm:x:132:135::/var/lib/openvas:/usr/sbin/nologin
+kali:x:1000:1000:,,,:/home/kali:/usr/bin/zsh
+student:x:1001:1001::/home/student:/bin/bash
+xrdp:x:133:138::/run/xrdp:/usr/sbin/nologin
+linda:x:1002:1002::/home/linda:/bin/bash
+tomek:x:1003:1000::/home/tomek:/bin/bash

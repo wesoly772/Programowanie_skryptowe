@@ -1,0 +1,5 @@
+ma 3
+kot 2
+ale 2
+chuja 1
+chuj 1
